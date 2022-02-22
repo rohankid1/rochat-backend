@@ -1,0 +1,9 @@
+[package]
+name = "rochat_backend"
+version = "1.0.0"
+edition = "2021"
+
+authors = ["rohan"]
+
+
+[dependencies]
