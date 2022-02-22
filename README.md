@@ -20,6 +20,6 @@ This repository holds the official source code for RoChat's new backend. Previou
 
 * After everything is done (backend, frontend and testing) and released, the old one will be removed, being replaced with the new one.
   
-  * The old one will **not** be archived because of how messy and awful it is actually is, plagued with bugs that could potentially have security issues.
+  * The old one will **not** be archived because of how messy and awful it is actually is, plagued with bugs that could potentially have security vulnerabilites.
 
 
