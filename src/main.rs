@@ -1,3 +1,3 @@
 fn main() {
-    todo!("Work will start soon. ");
+    todo!("Work will start soon.");
 }
