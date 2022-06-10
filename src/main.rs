@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    todo!("Work will start soon.");
 }
